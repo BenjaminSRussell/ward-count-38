@@ -333,3 +333,6 @@
 {"n":333,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south slip. direct left open. 5 steps. The shutter stays for the win."}
 {"n":334,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the shutter at High line. Nobody past the south slip. We win in 6 steps. Direct on the left lane, open."}
 {"n":335,"kind":"place","name":"High line south slip","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line south slip. Bess keeps the shutter for the win. 7 steps, direct on the left lane, open."}
+{"n":336,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south slip. direct left open. 8 steps. The shutter stays for the win."}
+{"n":337,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the awning at Ward gate. Nobody past the south slip. We win in 2 steps. Direct on the left lane, open."}
+{"n":338,"kind":"place","name":"Ward gate south slip","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Ward gate south slip. Matt keeps the awning for the win. 3 steps, direct on the left lane, open."}
