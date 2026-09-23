@@ -83,3 +83,6 @@
 {"n":83,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the plywood at Switchyard. Nobody past the west slip. We win in 7 steps. Direct on the left lane, open."}
 {"n":84,"kind":"place","name":"Switchyard west slip","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Switchyard west slip. Ivo keeps the plywood for the win. 8 steps, direct on the left lane, open."}
 {"n":85,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west slip. direct left open. 2 steps. The plywood stays for the win."}
+{"n":86,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at Switchyard. Nobody past the west slip. We win in 3 steps. Direct on the left lane, open."}
+{"n":87,"kind":"place","name":"Switchyard west slip","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Switchyard west slip. Bess keeps the plywood for the win. 4 steps, direct on the left lane, open."}
+{"n":88,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west slip. direct left open. 5 steps. The plywood stays for the win."}
