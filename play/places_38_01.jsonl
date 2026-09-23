@@ -757,3 +757,6 @@
 {"n":757,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west slip. direct left open. 2 steps. The lamp stays for the win."}
 {"n":758,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the lamp at Switchyard. Nobody past the west slip. We win in 3 steps. Direct on the left lane, open."}
 {"n":759,"kind":"place","name":"Switchyard west slip","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard west slip. Bess keeps the lamp for the win. 4 steps, direct on the left lane, open."}
+{"n":760,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west slip. direct left open. 5 steps. The lamp stays for the win."}
+{"n":761,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the lamp at Drydock. Nobody past the west slip. We win in 6 steps. Direct on the left lane, open."}
+{"n":762,"kind":"place","name":"Drydock west slip","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock west slip. Matt keeps the lamp for the win. 7 steps, direct on the left lane, open."}
