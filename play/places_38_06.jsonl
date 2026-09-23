@@ -302,3 +302,6 @@
 {"n":302,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north slip. direct left open. 4 steps. The shutter stays for the win."}
 {"n":303,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the shutter at Drydock. Nobody past the north slip. We win in 5 steps. Direct on the left lane, open."}
 {"n":304,"kind":"place","name":"Drydock north slip","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Drydock north slip. Ivo keeps the shutter for the win. 6 steps, direct on the left lane, open."}
+{"n":305,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, north slip. direct left open. 7 steps. The shutter stays for the win."}
+{"n":306,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the shutter at Drydock. Nobody past the north slip. We win in 8 steps. Direct on the left lane, open."}
+{"n":307,"kind":"place","name":"Drydock north slip","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Drydock north slip. Bess keeps the shutter for the win. 2 steps, direct on the left lane, open."}
