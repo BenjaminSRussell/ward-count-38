@@ -557,3 +557,6 @@
 {"n":557,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south roof. direct left open. 6 steps. The drum stays for the win."}
 {"n":558,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the drum at the pier. Nobody past the south roof. We win in 7 steps. Direct on the left lane, open."}
 {"n":559,"kind":"place","name":"the pier south roof","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier south roof. Bess keeps the drum for the win. 8 steps, direct on the left lane, open."}
+{"n":560,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south roof. direct left open. 2 steps. The drum stays for the win."}
+{"n":561,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the drum at Clinic roof. Nobody past the south roof. We win in 3 steps. Direct on the left lane, open."}
+{"n":562,"kind":"place","name":"Clinic roof south roof","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Clinic roof south roof. Matt keeps the drum for the win. 4 steps, direct on the left lane, open."}
