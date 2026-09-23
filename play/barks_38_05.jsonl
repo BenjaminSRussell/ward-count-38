@@ -761,3 +761,6 @@
 {"n":761,"kind":"place","name":"the pier north slip","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the pier north slip. Nia keeps the lamp for the win. 2 steps, direct on the left lane, open."}
 {"n":762,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, north slip. direct left open. 3 steps. The lamp stays for the win."}
 {"n":763,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the lamp at the pier. Nobody past the north slip. We win in 4 steps. Direct on the left lane, open."}
+{"n":764,"kind":"place","name":"the pier north slip","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the pier north slip. Ivo keeps the lamp for the win. 5 steps, direct on the left lane, open."}
+{"n":765,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north slip. direct left open. 6 steps. The lamp stays for the win."}
+{"n":766,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the lamp at the pier. Nobody past the north slip. We win in 7 steps. Direct on the left lane, open."}
