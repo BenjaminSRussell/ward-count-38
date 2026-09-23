@@ -845,3 +845,6 @@
 {"n":845,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, south roof. direct left open. 7 steps. The radio coil stays for the win."}
 {"n":846,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the radio coil at the Underpass. Nobody past the south roof. We win in 8 steps. Direct on the left lane, open."}
 {"n":847,"kind":"place","name":"the Underpass south roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Underpass south roof. Bess keeps the radio coil for the win. 2 steps, direct on the left lane, open."}
+{"n":848,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, south roof. direct left open. 3 steps. The radio coil stays for the win."}
+{"n":849,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the radio coil at Mast yard. Nobody past the south roof. We win in 4 steps. Direct on the left lane, open."}
+{"n":850,"kind":"place","name":"Mast yard south roof","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mast yard south roof. Matt keeps the radio coil for the win. 5 steps, direct on the left lane, open."}
