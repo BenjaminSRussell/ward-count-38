@@ -207,3 +207,6 @@
 {"n":207,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the hydrant at the Lot. Nobody past the west yard. We win in 4 steps. Direct on the left lane, open."}
 {"n":208,"kind":"place","name":"the Lot west yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Lot west yard. Ivo keeps the hydrant for the win. 5 steps, direct on the left lane, open."}
 {"n":209,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west yard. direct left open. 6 steps. The hydrant stays for the win."}
+{"n":210,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the hydrant at the Lot. Nobody past the west yard. We win in 7 steps. Direct on the left lane, open."}
+{"n":211,"kind":"place","name":"the Lot west yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Lot west yard. Bess keeps the hydrant for the win. 8 steps, direct on the left lane, open."}
+{"n":212,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west yard. direct left open. 2 steps. The hydrant stays for the win."}
