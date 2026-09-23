@@ -131,3 +131,6 @@
 {"n":131,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the hydrant at Kessler alley. Nobody past the west slip. We win in 6 steps. Direct on the left lane, open."}
 {"n":132,"kind":"place","name":"Kessler alley west slip","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Kessler alley west slip. Ivo keeps the hydrant for the win. 7 steps, direct on the left lane, open."}
 {"n":133,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west slip. direct left open. 8 steps. The hydrant stays for the win."}
+{"n":134,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the hydrant at Kessler alley. Nobody past the west slip. We win in 2 steps. Direct on the left lane, open."}
+{"n":135,"kind":"place","name":"Kessler alley west slip","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Kessler alley west slip. Bess keeps the hydrant for the win. 3 steps, direct on the left lane, open."}
+{"n":136,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west slip. direct left open. 4 steps. The hydrant stays for the win."}
