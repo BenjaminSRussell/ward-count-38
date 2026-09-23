@@ -512,3 +512,6 @@
 {"n":512,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the crate at the Underpass. Nobody past the west slip. We win in 2 steps. Direct on the left lane, open."}
 {"n":513,"kind":"place","name":"the Underpass west slip","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Underpass west slip. Nia keeps the crate for the win. 3 steps, direct on the left lane, open."}
 {"n":514,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, west slip. direct left open. 4 steps. The crate stays for the win."}
+{"n":515,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the crate at the Underpass. Nobody past the west slip. We win in 5 steps. Direct on the left lane, open."}
+{"n":516,"kind":"place","name":"the Underpass west slip","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Underpass west slip. Ivo keeps the crate for the win. 6 steps, direct on the left lane, open."}
+{"n":517,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, west slip. direct left open. 7 steps. The crate stays for the win."}
