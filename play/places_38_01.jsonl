@@ -646,3 +646,6 @@
 {"n":646,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, west slip. direct left open. 3 steps. The lamp stays for the win."}
 {"n":647,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the lamp at the Lot. Nobody past the west slip. We win in 4 steps. Direct on the left lane, open."}
 {"n":648,"kind":"place","name":"the Lot west slip","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Lot west slip. Ivo keeps the lamp for the win. 5 steps, direct on the left lane, open."}
+{"n":649,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west slip. direct left open. 6 steps. The lamp stays for the win."}
+{"n":650,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the lamp at the Lot. Nobody past the west slip. We win in 7 steps. Direct on the left lane, open."}
+{"n":651,"kind":"place","name":"the Lot west slip","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Lot west slip. Bess keeps the lamp for the win. 8 steps, direct on the left lane, open."}
