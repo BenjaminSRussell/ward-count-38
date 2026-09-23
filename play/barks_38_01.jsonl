@@ -300,3 +300,6 @@
 {"n":300,"kind":"place","name":"Kessler alley west slip","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley west slip. Ivo keeps the barrel for the win. 7 steps, direct on the left lane, open."}
 {"n":301,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west slip. direct left open. 8 steps. The barrel stays for the win."}
 {"n":302,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the barrel at Kessler alley. Nobody past the west slip. We win in 2 steps. Direct on the left lane, open."}
+{"n":303,"kind":"place","name":"Kessler alley west slip","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley west slip. Bess keeps the barrel for the win. 3 steps, direct on the left lane, open."}
+{"n":304,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west slip. direct left open. 4 steps. The barrel stays for the win."}
+{"n":305,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the barrel at the Lot. Nobody past the west slip. We win in 5 steps. Direct on the left lane, open."}
