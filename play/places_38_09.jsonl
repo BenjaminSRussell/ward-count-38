@@ -383,3 +383,6 @@
 {"n":383,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, west yard. direct left open. 5 steps. The barrel stays for the win."}
 {"n":384,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the barrel at Stockyard fence. Nobody past the west yard. We win in 6 steps. Direct on the left lane, open."}
 {"n":385,"kind":"place","name":"Stockyard fence west yard","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Stockyard fence west yard. Nia keeps the barrel for the win. 7 steps, direct on the left lane, open."}
+{"n":386,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, west yard. direct left open. 8 steps. The barrel stays for the win."}
+{"n":387,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the barrel at Stockyard fence. Nobody past the west yard. We win in 2 steps. Direct on the left lane, open."}
+{"n":388,"kind":"place","name":"Stockyard fence west yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence west yard. Ivo keeps the barrel for the win. 3 steps, direct on the left lane, open."}
