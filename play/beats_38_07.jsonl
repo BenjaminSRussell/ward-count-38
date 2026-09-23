@@ -818,3 +818,6 @@
 {"n":818,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the lamp at Drydock. Nobody past the south slip. We win in 8 steps. Direct on the left lane, open."}
 {"n":819,"kind":"place","name":"Drydock south slip","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock south slip. Bess keeps the lamp for the win. 2 steps, direct on the left lane, open."}
 {"n":820,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south slip. direct left open. 3 steps. The lamp stays for the win."}
+{"n":821,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the lamp at High line. Nobody past the south slip. We win in 4 steps. Direct on the left lane, open."}
+{"n":822,"kind":"place","name":"High line south slip","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"High line south slip. Matt keeps the lamp for the win. 5 steps, direct on the left lane, open."}
+{"n":823,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, south slip. direct left open. 6 steps. The lamp stays for the win."}
