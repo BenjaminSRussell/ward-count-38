@@ -483,3 +483,6 @@
 {"n":483,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the barrel at Switchyard. Nobody past the west yard. We win in 7 steps. Direct on the left lane, open."}
 {"n":484,"kind":"place","name":"Switchyard west yard","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Switchyard west yard. Ivo keeps the barrel for the win. 8 steps, direct on the left lane, open."}
 {"n":485,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west yard. direct left open. 2 steps. The barrel stays for the win."}
+{"n":486,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the barrel at Switchyard. Nobody past the west yard. We win in 3 steps. Direct on the left lane, open."}
+{"n":487,"kind":"place","name":"Switchyard west yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Switchyard west yard. Bess keeps the barrel for the win. 4 steps, direct on the left lane, open."}
+{"n":488,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west yard. direct left open. 5 steps. The barrel stays for the win."}
