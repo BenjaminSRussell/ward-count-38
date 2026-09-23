@@ -907,3 +907,6 @@
 {"n":907,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rebar at Last Light. Nobody past the north slip. We win in 8 steps. Direct on the left lane, open."}
 {"n":908,"kind":"place","name":"Last Light north slip","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Last Light north slip. Ivo keeps the rebar for the win. 2 steps, direct on the left lane, open."}
 {"n":909,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, north slip. direct left open. 3 steps. The rebar stays for the win."}
+{"n":910,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rebar at Last Light. Nobody past the north slip. We win in 4 steps. Direct on the left lane, open."}
+{"n":911,"kind":"place","name":"Last Light north slip","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Last Light north slip. Bess keeps the rebar for the win. 5 steps, direct on the left lane, open."}
+{"n":912,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, north slip. direct left open. 6 steps. The rebar stays for the win."}
