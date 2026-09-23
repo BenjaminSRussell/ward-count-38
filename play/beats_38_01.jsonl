@@ -923,3 +923,6 @@
 {"n":923,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rebar at Switchyard. Nobody past the west slip. We win in 7 steps. Direct on the left lane, open."}
 {"n":924,"kind":"place","name":"Switchyard west slip","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Switchyard west slip. Ivo keeps the rebar for the win. 8 steps, direct on the left lane, open."}
 {"n":925,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west slip. direct left open. 2 steps. The rebar stays for the win."}
+{"n":926,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rebar at Switchyard. Nobody past the west slip. We win in 3 steps. Direct on the left lane, open."}
+{"n":927,"kind":"place","name":"Switchyard west slip","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Switchyard west slip. Bess keeps the rebar for the win. 4 steps, direct on the left lane, open."}
+{"n":928,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west slip. direct left open. 5 steps. The rebar stays for the win."}
