@@ -854,3 +854,6 @@
 {"n":854,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, west yard. direct left open. 7 steps. The rebar stays for the win."}
 {"n":855,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rebar at Ward gate. Nobody past the west yard. We win in 8 steps. Direct on the left lane, open."}
 {"n":856,"kind":"place","name":"Ward gate west yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Ward gate west yard. Ivo keeps the rebar for the win. 2 steps, direct on the left lane, open."}
+{"n":857,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, west yard. direct left open. 3 steps. The rebar stays for the win."}
+{"n":858,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rebar at Ward gate. Nobody past the west yard. We win in 4 steps. Direct on the left lane, open."}
+{"n":859,"kind":"place","name":"Ward gate west yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Ward gate west yard. Bess keeps the rebar for the win. 5 steps, direct on the left lane, open."}
