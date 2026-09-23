@@ -654,3 +654,6 @@
 {"n":654,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the crate at Switchyard. Nobody past the west yard. We win in 3 steps. Direct on the left lane, open."}
 {"n":655,"kind":"place","name":"Switchyard west yard","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Switchyard west yard. Bess keeps the crate for the win. 4 steps, direct on the left lane, open."}
 {"n":656,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west yard. direct left open. 5 steps. The crate stays for the win."}
+{"n":657,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the crate at Drydock. Nobody past the west yard. We win in 6 steps. Direct on the left lane, open."}
+{"n":658,"kind":"place","name":"Drydock west yard","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Drydock west yard. Matt keeps the crate for the win. 7 steps, direct on the left lane, open."}
+{"n":659,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, west yard. direct left open. 8 steps. The crate stays for the win."}
