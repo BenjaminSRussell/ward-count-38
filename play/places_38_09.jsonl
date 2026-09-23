@@ -638,3 +638,6 @@
 {"n":638,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, west yard. direct left open. 8 steps. The crate stays for the win."}
 {"n":639,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the crate at Clinic roof. Nobody past the west yard. We win in 2 steps. Direct on the left lane, open."}
 {"n":640,"kind":"place","name":"Clinic roof west yard","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Clinic roof west yard. Ivo keeps the crate for the win. 3 steps, direct on the left lane, open."}
+{"n":641,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, west yard. direct left open. 4 steps. The crate stays for the win."}
+{"n":642,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the crate at Clinic roof. Nobody past the west yard. We win in 5 steps. Direct on the left lane, open."}
+{"n":643,"kind":"place","name":"Clinic roof west yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Clinic roof west yard. Bess keeps the crate for the win. 6 steps, direct on the left lane, open."}
