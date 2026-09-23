@@ -495,3 +495,6 @@
 {"n":495,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, north slip. direct left open. 2 steps. The crate stays for the win."}
 {"n":496,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the crate at Kessler alley. Nobody past the north slip. We win in 3 steps. Direct on the left lane, open."}
 {"n":497,"kind":"place","name":"Kessler alley north slip","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Kessler alley north slip. Nia keeps the crate for the win. 4 steps, direct on the left lane, open."}
+{"n":498,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, north slip. direct left open. 5 steps. The crate stays for the win."}
+{"n":499,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the crate at Kessler alley. Nobody past the north slip. We win in 6 steps. Direct on the left lane, open."}
+{"n":500,"kind":"place","name":"Kessler alley north slip","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley north slip. Ivo keeps the crate for the win. 7 steps, direct on the left lane, open."}
