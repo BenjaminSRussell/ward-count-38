@@ -29,3 +29,6 @@
 {"n":29,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, north slip. direct left open. 4 steps. The rope stays for the win."}
 {"n":30,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rope at Stockyard fence. Nobody past the north slip. We win in 5 steps. Direct on the left lane, open."}
 {"n":31,"kind":"place","name":"Stockyard fence north slip","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Stockyard fence north slip. Bess keeps the rope for the win. 6 steps, direct on the left lane, open."}
+{"n":32,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, north slip. direct left open. 7 steps. The rope stays for the win."}
+{"n":33,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the rope at Mall court. Nobody past the north slip. We win in 8 steps. Direct on the left lane, open."}
+{"n":34,"kind":"place","name":"Mall court north slip","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mall court north slip. Matt keeps the rope for the win. 2 steps, direct on the left lane, open."}
