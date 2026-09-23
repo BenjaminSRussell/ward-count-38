@@ -768,3 +768,6 @@
 {"n":768,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the lamp at Switchyard. Nobody past the east slip. We win in 4 steps. Direct on the left lane, open."}
 {"n":769,"kind":"place","name":"Switchyard east slip","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Switchyard east slip. Nia keeps the lamp for the win. 5 steps, direct on the left lane, open."}
 {"n":770,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, east slip. direct left open. 6 steps. The lamp stays for the win."}
+{"n":771,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the lamp at Switchyard. Nobody past the east slip. We win in 7 steps. Direct on the left lane, open."}
+{"n":772,"kind":"place","name":"Switchyard east slip","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Switchyard east slip. Ivo keeps the lamp for the win. 8 steps, direct on the left lane, open."}
+{"n":773,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east slip. direct left open. 2 steps. The lamp stays for the win."}
