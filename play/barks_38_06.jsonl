@@ -793,3 +793,6 @@
 {"n":793,"kind":"place","name":"Switchyard north slip","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Switchyard north slip. Nia keeps the badge door for the win. 5 steps, direct on the left lane, open."}
 {"n":794,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, north slip. direct left open. 6 steps. The badge door stays for the win."}
 {"n":795,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the badge door at Switchyard. Nobody past the north slip. We win in 7 steps. Direct on the left lane, open."}
+{"n":796,"kind":"place","name":"Switchyard north slip","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Switchyard north slip. Ivo keeps the badge door for the win. 8 steps, direct on the left lane, open."}
+{"n":797,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north slip. direct left open. 2 steps. The badge door stays for the win."}
+{"n":798,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the badge door at Switchyard. Nobody past the north slip. We win in 3 steps. Direct on the left lane, open."}
