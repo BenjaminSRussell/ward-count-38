@@ -957,3 +957,6 @@
 {"n":957,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north slip. direct left open. 2 steps. The rebar stays for the win."}
 {"n":958,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rebar at Switchyard. Nobody past the north slip. We win in 3 steps. Direct on the left lane, open."}
 {"n":959,"kind":"place","name":"Switchyard north slip","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard north slip. Bess keeps the rebar for the win. 4 steps, direct on the left lane, open."}
+{"n":960,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north slip. direct left open. 5 steps. The rebar stays for the win."}
+{"n":961,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the rebar at Drydock. Nobody past the north slip. We win in 6 steps. Direct on the left lane, open."}
+{"n":962,"kind":"place","name":"Drydock north slip","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock north slip. Matt keeps the rebar for the win. 7 steps, direct on the left lane, open."}
