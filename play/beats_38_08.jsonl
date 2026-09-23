@@ -166,3 +166,6 @@
 {"n":166,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rope at High line. Nobody past the south slip. We win in 6 steps. Direct on the left lane, open."}
 {"n":167,"kind":"place","name":"High line south slip","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line south slip. Bess keeps the rope for the win. 7 steps, direct on the left lane, open."}
 {"n":168,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south slip. direct left open. 8 steps. The rope stays for the win."}
+{"n":169,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the shutter at Ward gate. Nobody past the south slip. We win in 2 steps. Direct on the left lane, open."}
+{"n":170,"kind":"place","name":"Ward gate south slip","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate south slip. Matt keeps the shutter for the win. 3 steps, direct on the left lane, open."}
+{"n":171,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south slip. direct left open. 4 steps. The shutter stays for the win."}
