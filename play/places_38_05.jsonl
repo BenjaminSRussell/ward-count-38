@@ -894,3 +894,6 @@
 {"n":894,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, north slip. direct left open. 2 steps. The rebar stays for the win."}
 {"n":895,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rebar at Mast yard. Nobody past the north slip. We win in 3 steps. Direct on the left lane, open."}
 {"n":896,"kind":"place","name":"Mast yard north slip","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mast yard north slip. Ivo keeps the rebar for the win. 4 steps, direct on the left lane, open."}
+{"n":897,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north slip. direct left open. 5 steps. The rebar stays for the win."}
+{"n":898,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rebar at Mast yard. Nobody past the north slip. We win in 6 steps. Direct on the left lane, open."}
+{"n":899,"kind":"place","name":"Mast yard north slip","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard north slip. Bess keeps the rebar for the win. 7 steps, direct on the left lane, open."}
