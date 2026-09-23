@@ -820,3 +820,6 @@
 {"n":820,"kind":"place","name":"Switchyard west yard","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Switchyard west yard. Ivo keeps the lamp for the win. 8 steps, direct on the left lane, open."}
 {"n":821,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west yard. direct left open. 2 steps. The lamp stays for the win."}
 {"n":822,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the lamp at Switchyard. Nobody past the west yard. We win in 3 steps. Direct on the left lane, open."}
+{"n":823,"kind":"place","name":"Switchyard west yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard west yard. Bess keeps the lamp for the win. 4 steps, direct on the left lane, open."}
+{"n":824,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west yard. direct left open. 5 steps. The lamp stays for the win."}
+{"n":825,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the lamp at Drydock. Nobody past the west yard. We win in 6 steps. Direct on the left lane, open."}
