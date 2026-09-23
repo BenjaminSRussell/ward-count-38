@@ -305,3 +305,6 @@
 {"n":305,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south roof. direct left open. 6 steps. The awning stays for the win."}
 {"n":306,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the awning at the Lot. Nobody past the south roof. We win in 7 steps. Direct on the left lane, open."}
 {"n":307,"kind":"place","name":"the Lot south roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot south roof. Bess keeps the awning for the win. 8 steps, direct on the left lane, open."}
+{"n":308,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south roof. direct left open. 2 steps. The awning stays for the win."}
+{"n":309,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the awning at Stockyard fence. Nobody past the south roof. We win in 3 steps. Direct on the left lane, open."}
+{"n":310,"kind":"place","name":"Stockyard fence south roof","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Stockyard fence south roof. Matt keeps the awning for the win. 4 steps, direct on the left lane, open."}
