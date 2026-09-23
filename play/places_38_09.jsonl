@@ -458,3 +458,6 @@
 {"n":458,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, west yard. direct left open. 3 steps. The barrel stays for the win."}
 {"n":459,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the barrel at the pier. Nobody past the west yard. We win in 4 steps. Direct on the left lane, open."}
 {"n":460,"kind":"place","name":"the pier west yard","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the pier west yard. Ivo keeps the barrel for the win. 5 steps, direct on the left lane, open."}
+{"n":461,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, west yard. direct left open. 6 steps. The barrel stays for the win."}
+{"n":462,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the barrel at the pier. Nobody past the west yard. We win in 7 steps. Direct on the left lane, open."}
+{"n":463,"kind":"place","name":"the pier west yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the pier west yard. Bess keeps the barrel for the win. 8 steps, direct on the left lane, open."}
