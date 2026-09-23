@@ -980,3 +980,6 @@
 {"n":980,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the rope at the Lot. Nobody past the west slip. We win in 8 steps. Direct on the left lane, open."}
 {"n":981,"kind":"place","name":"the Lot west slip","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the Lot west slip. Nia keeps the rope for the win. 2 steps, direct on the left lane, open."}
 {"n":982,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, west slip. direct left open. 3 steps. The rope stays for the win."}
+{"n":983,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rope at the Lot. Nobody past the west slip. We win in 4 steps. Direct on the left lane, open."}
+{"n":984,"kind":"place","name":"the Lot west slip","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot west slip. Ivo keeps the rope for the win. 5 steps, direct on the left lane, open."}
+{"n":985,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west slip. direct left open. 6 steps. The rope stays for the win."}
