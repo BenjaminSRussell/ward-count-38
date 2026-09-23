@@ -899,3 +899,6 @@
 {"n":899,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, west yard. direct left open. 3 steps. The rebar stays for the win."}
 {"n":900,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the rebar at Mall court. Nobody past the west yard. We win in 4 steps. Direct on the left lane, open."}
 {"n":901,"kind":"place","name":"Mall court west yard","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Mall court west yard. Nia keeps the rebar for the win. 5 steps, direct on the left lane, open."}
+{"n":902,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, west yard. direct left open. 6 steps. The rebar stays for the win."}
+{"n":903,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rebar at Mall court. Nobody past the west yard. We win in 7 steps. Direct on the left lane, open."}
+{"n":904,"kind":"place","name":"Mall court west yard","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Mall court west yard. Ivo keeps the rebar for the win. 8 steps, direct on the left lane, open."}
