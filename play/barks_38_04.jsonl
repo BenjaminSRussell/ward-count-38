@@ -660,3 +660,6 @@
 {"n":660,"kind":"place","name":"Kessler alley east slip","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley east slip. Ivo keeps the badge door for the win. 7 steps, direct on the left lane, open."}
 {"n":661,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east slip. direct left open. 8 steps. The badge door stays for the win."}
 {"n":662,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the badge door at Kessler alley. Nobody past the east slip. We win in 2 steps. Direct on the left lane, open."}
+{"n":663,"kind":"place","name":"Kessler alley east slip","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley east slip. Bess keeps the badge door for the win. 3 steps, direct on the left lane, open."}
+{"n":664,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east slip. direct left open. 4 steps. The badge door stays for the win."}
+{"n":665,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the badge door at the Lot. Nobody past the east slip. We win in 5 steps. Direct on the left lane, open."}
