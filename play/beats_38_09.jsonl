@@ -540,3 +540,6 @@
 {"n":540,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the crate at the Lot. Nobody past the west yard. We win in 8 steps. Direct on the left lane, open."}
 {"n":541,"kind":"place","name":"the Lot west yard","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the Lot west yard. Nia keeps the crate for the win. 2 steps, direct on the left lane, open."}
 {"n":542,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, west yard. direct left open. 3 steps. The crate stays for the win."}
+{"n":543,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the crate at the Lot. Nobody past the west yard. We win in 4 steps. Direct on the left lane, open."}
+{"n":544,"kind":"place","name":"the Lot west yard","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot west yard. Ivo keeps the crate for the win. 5 steps, direct on the left lane, open."}
+{"n":545,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west yard. direct left open. 6 steps. The crate stays for the win."}
