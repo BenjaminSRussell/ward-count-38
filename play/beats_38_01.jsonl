@@ -851,3 +851,6 @@
 {"n":851,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rebar at the Underpass. Nobody past the west slip. We win in 5 steps. Direct on the left lane, open."}
 {"n":852,"kind":"place","name":"the Underpass west slip","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Underpass west slip. Ivo keeps the rebar for the win. 6 steps, direct on the left lane, open."}
 {"n":853,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, west slip. direct left open. 7 steps. The rebar stays for the win."}
+{"n":854,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rebar at the Underpass. Nobody past the west slip. We win in 8 steps. Direct on the left lane, open."}
+{"n":855,"kind":"place","name":"the Underpass west slip","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Underpass west slip. Bess keeps the rebar for the win. 2 steps, direct on the left lane, open."}
+{"n":856,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, west slip. direct left open. 3 steps. The rebar stays for the win."}
