@@ -265,3 +265,6 @@
 {"n":265,"kind":"place","name":"Switchyard east slip","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Switchyard east slip. Nia keeps the hydrant for the win. 5 steps, direct on the left lane, open."}
 {"n":266,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, east slip. direct left open. 6 steps. The hydrant stays for the win."}
 {"n":267,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the hydrant at Switchyard. Nobody past the east slip. We win in 7 steps. Direct on the left lane, open."}
+{"n":268,"kind":"place","name":"Switchyard east slip","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard east slip. Ivo keeps the hydrant for the win. 8 steps, direct on the left lane, open."}
+{"n":269,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east slip. direct left open. 2 steps. The hydrant stays for the win."}
+{"n":270,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the hydrant at Switchyard. Nobody past the east slip. We win in 3 steps. Direct on the left lane, open."}
