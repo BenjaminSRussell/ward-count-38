@@ -687,3 +687,6 @@
 {"n":687,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the badge door at the Lot. Nobody past the north slip. We win in 4 steps. Direct on the left lane, open."}
 {"n":688,"kind":"place","name":"the Lot north slip","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Lot north slip. Ivo keeps the badge door for the win. 5 steps, direct on the left lane, open."}
 {"n":689,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north slip. direct left open. 6 steps. The badge door stays for the win."}
+{"n":690,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the badge door at the Lot. Nobody past the north slip. We win in 7 steps. Direct on the left lane, open."}
+{"n":691,"kind":"place","name":"the Lot north slip","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Lot north slip. Bess keeps the badge door for the win. 8 steps, direct on the left lane, open."}
+{"n":692,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north slip. direct left open. 2 steps. The badge door stays for the win."}
