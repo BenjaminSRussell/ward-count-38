@@ -626,3 +626,6 @@
 {"n":626,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the lamp at Ward gate. Nobody past the west slip. We win in 4 steps. Direct on the left lane, open."}
 {"n":627,"kind":"place","name":"Ward gate west slip","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Ward gate west slip. Bess keeps the lamp for the win. 5 steps, direct on the left lane, open."}
 {"n":628,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, west slip. direct left open. 6 steps. The lamp stays for the win."}
+{"n":629,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the lamp at Kessler alley. Nobody past the west slip. We win in 7 steps. Direct on the left lane, open."}
+{"n":630,"kind":"place","name":"Kessler alley west slip","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Kessler alley west slip. Matt keeps the lamp for the win. 8 steps, direct on the left lane, open."}
+{"n":631,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, west slip. direct left open. 2 steps. The lamp stays for the win."}
